@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-  "typescript": "https://cdn.jsdelivr.net/npm/@tsplus/installer@0.0.173/compiler/typescript.tgz",
+  "typescript": "https://cdn.jsdelivr.net/npm/@tsplus/installer@0.0.176/compiler/typescript.tgz",
   "@tsconfig/strictest": "^2.0.1"
   }
 }

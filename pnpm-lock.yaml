@@ -5,8 +5,8 @@ devDependencies:
     specifier: ^2.0.1
     version: 2.0.1
   typescript:
-    specifier: https://cdn.jsdelivr.net/npm/@tsplus/installer@0.0.173/compiler/typescript.tgz
-    version: '@cdn.jsdelivr.net/npm/@tsplus/installer@0.0.173/compiler/typescript.tgz'
+    specifier: https://cdn.jsdelivr.net/npm/@tsplus/installer@0.0.176/compiler/typescript.tgz
+    version: '@cdn.jsdelivr.net/npm/@tsplus/installer@0.0.176/compiler/typescript.tgz'
 
 packages:
 
@@ -14,10 +14,10 @@ packages:
     resolution: {integrity: sha512-7JHHCbyCsGUxLd0pDbp24yz3zjxw2t673W5oAP6HCEdr/UUhaRhYd3SSnUsGCk+VnPVJVA4mXROzbhI+nyIk+w==}
     dev: true
 
-  '@cdn.jsdelivr.net/npm/@tsplus/installer@0.0.173/compiler/typescript.tgz':
-    resolution: {tarball: https://cdn.jsdelivr.net/npm/@tsplus/installer@0.0.173/compiler/typescript.tgz}
+  '@cdn.jsdelivr.net/npm/@tsplus/installer@0.0.176/compiler/typescript.tgz':
+    resolution: {tarball: https://cdn.jsdelivr.net/npm/@tsplus/installer@0.0.176/compiler/typescript.tgz}
     name: typescript
-    version: 5.1.0-tsplus.20230421
+    version: 5.1.0-tsplus.20230423
     engines: {node: '>=14.17'}
     hasBin: true
     dev: true
